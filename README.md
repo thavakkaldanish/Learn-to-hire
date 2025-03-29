@@ -8,9 +8,8 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/dd7084b0-6191-4eef-8473-b44706fbdf37) and start prompting.
+Simply visit the (https://lovable.dev/projects/dd7084b0-6191-4eef-8473-b44706fbdf37) and start prompting.
 
 
 
@@ -59,9 +58,8 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/dd7084b0-6191-4eef-8473-b44706fbdf37) and click on Share -> Publish.
+Simply open (https://lovable.dev/projects/dd7084b0-6191-4eef-8473-b44706fbdf37) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
